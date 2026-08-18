@@ -2,7 +2,7 @@ import os
 import random
 import pandas as pd
 
-DATA_PATH = os.path.join("data", "bank_soal_AI.csv")
+DATA_PATH = os.path.join("data", "bank_soal_FSA.csv")
 
 
 def load_questions(num_questions=None, seed=None, shuffle_options=True):
