@@ -11,7 +11,7 @@ from src.scoring import evaluate
 from src.anti_cheat import init_anti_cheat_state, get_time_remaining
 
 
-N_SOAL_PER_UJIAN = 20  # jumlah soal yang muncul untuk mahasiswa
+N_SOAL_PER_UJIAN = 10  # jumlah soal yang muncul untuk mahasiswa
 
 
 def render_mahasiswa_page(sheets_client: SheetsClient):
