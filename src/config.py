@@ -1,6 +1,6 @@
 APP_TITLE = "Kuis TBO"
 
-EXAM_DURATION_MINUTES = 10  # durasi ujian
+EXAM_DURATION_MINUTES = 15  # durasi ujian
 EXAM_DURATION_SECONDS = EXAM_DURATION_MINUTES * 60
 
 # Nama sheet di Google Spreadsheet (harus sama dengan Apps Script)
