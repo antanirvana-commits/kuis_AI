@@ -5,7 +5,7 @@ from datetime import datetime
 from .config import RESULTS_HEADERS
 
 # GANTI ini dengan URL Web App Apps Script kamu
-APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxrN-uI26ihLDEzweGna7MQ_uWdPe0KDFzVtWTVITT_fidj52oKB7tmVcP-b2vIc5M/exec"
+APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbznrd_JaESwXtrHOZfYX-4CV4RsvBB13nU5_8Y8YgcGSvRcQTKgwqqCgKjlEtBs-ITr/exec"
 
 
 class SheetsClient:
